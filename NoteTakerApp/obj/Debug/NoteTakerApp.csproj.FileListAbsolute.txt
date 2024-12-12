@@ -1,0 +1,10 @@
+C:\Users\sbuzz\OneDrive\Desktop\Projects\NoteTakerApp\bin\Debug\NoteTakerApp.exe.config
+C:\Users\sbuzz\OneDrive\Desktop\Projects\NoteTakerApp\bin\Debug\NoteTakerApp.exe
+C:\Users\sbuzz\OneDrive\Desktop\Projects\NoteTakerApp\bin\Debug\NoteTakerApp.pdb
+C:\Users\sbuzz\OneDrive\Desktop\Projects\NoteTakerApp\obj\Debug\NoteTakerApp.csproj.AssemblyReference.cache
+C:\Users\sbuzz\OneDrive\Desktop\Projects\NoteTakerApp\obj\Debug\NoteTakerApp.Form1.resources
+C:\Users\sbuzz\OneDrive\Desktop\Projects\NoteTakerApp\obj\Debug\NoteTakerApp.Properties.Resources.resources
+C:\Users\sbuzz\OneDrive\Desktop\Projects\NoteTakerApp\obj\Debug\NoteTakerApp.csproj.GenerateResource.cache
+C:\Users\sbuzz\OneDrive\Desktop\Projects\NoteTakerApp\obj\Debug\NoteTakerApp.csproj.CoreCompileInputs.cache
+C:\Users\sbuzz\OneDrive\Desktop\Projects\NoteTakerApp\obj\Debug\NoteTakerApp.exe
+C:\Users\sbuzz\OneDrive\Desktop\Projects\NoteTakerApp\obj\Debug\NoteTakerApp.pdb
